@@ -7,12 +7,12 @@ The highest level of the repository contains the REPOSITORY'S license and the fo
 
 ## Licenses & Usage
 
-Usage of the repository is falls under "The Unliscense." However, some domain settings and problems may come with their own liceneses. Each high-level folder will have the associated license with said domains and problems as LICENESE.md, if applicable. It is up to the individual user to make sure they fall under compliance and provide the proper licenses in end products, teaching materials, or papers.
+Usage of the repository is falls under "The Unliscense." However, some domain settings and problems may come with their own liceneses. Each high-level folder will have the associated license with said domains and problems as LICENESE, if applicable. It is up to the individual user to make sure they fall under compliance and provide the proper licenses in end products, teaching materials, or papers.
 
 ## How to Contribute: Pull Requests
 
 When contributing to the repository, the following are required:
-- LICENSE.md
+- LICENSE
 - Adherence to the structure (in Structure)
 
 Failure to comply will have the PR denied until it is fixed. Closed source and restrictive domains and problems will not be permitted; people who use this repository and the associated domains and problems should feel free. A README is optional.
